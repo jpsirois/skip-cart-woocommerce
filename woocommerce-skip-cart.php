@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name: Skip Cart WooCommerce
- * Plugin URI: https://github.com/jpsirois/skip-cart-woocommerce
+ * Plugin Name: WooCommerce Skip Cart
+ * Plugin URI: https://github.com/jpsirois/woocommerce-skip-cart
  * Description: Skip Cart for WooCommerce and go straight to the checkout page. Suitable for buying single product at ounce like a membership or single product web site.
  * Author: Jean-Philippe Sirois
  * Author URI: http://jpsirois.com
