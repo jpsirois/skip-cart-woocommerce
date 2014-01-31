@@ -7,7 +7,7 @@ Stable tag: 0.0.1
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-Skip Cart for WooCommerce and go straight to the checkout page. Suitable for buying single product at ounce like a membership or single product web site.
+Skip Cart for WooCommerce and go straight to checkout. Suitable for buying single product at ounce like a membership or single product web site.
 
 == Description ==
 
