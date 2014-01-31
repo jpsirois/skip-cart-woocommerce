@@ -25,6 +25,6 @@ This plugin allow to simply skip the Cart setup for a WooCommerce setup and go s
 
 == ChangeLog ==
 
-= Version 0.1 =
+= 0.1 - 2014-01-31  =
 
 * Initial release.
