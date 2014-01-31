@@ -2,8 +2,8 @@
 Contributors: jpsirois
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=email@jpsirois.com&item_name=Donation+for+WooCommerce+Skip+Cart
 Tags: ecommerce, e-commerce, commerce, woothemes, wordpress ecommerce, affiliate, store, sales, sell, shop, shopping, cart, checkout, configurable
-Tested up to: 3.8.1
-Stable tag: 0.0.1
+Tested up to: 4.6.1
+Stable tag: 0.0.3
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -24,6 +24,11 @@ This plugin allow to simply skip the Cart setup for a WooCommerce setup and go s
 1. A soon as a user click to buy a product, the checkout page is automatically shown.
 
 == ChangeLog ==
+
+= 0.3 - 2016-09-25  =
+
+* Fix compatibility with WooCommerce 2.5+ and tested on 2.6.4 version.
+* Keep coupons code in URL params.
 
 = 0.2 - 2014-02-05  =
 
