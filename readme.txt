@@ -1,6 +1,6 @@
 === WooCommerce Skip Cart ===
 Contributors: jpsirois
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=email@jpsirois.com&item_name=Donation+for+Skip+Cart+WooCommerce
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=email@jpsirois.com&item_name=Donation+for+WooCommerce+Skip+Cart
 Tags: ecommerce, e-commerce, commerce, woothemes, wordpress ecommerce, affiliate, store, sales, sell, shop, shopping, cart, checkout, configurable
 Tested up to: 3.8.1
 Stable tag: 0.0.1
