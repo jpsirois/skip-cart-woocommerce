@@ -25,6 +25,10 @@ This plugin allow to simply skip the Cart setup for a WooCommerce setup and go s
 
 == ChangeLog ==
 
+= 0.2 - 2014-02-05  =
+
+* Remove default `Added to cart` message.
+
 = 0.1 - 2014-01-31  =
 
 * Initial release.
